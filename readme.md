@@ -2,7 +2,12 @@
 
 The purpose of this repo is to demonstrate to students how you can use git, this will only cover the basics.
 
-To "download" the repository, press the <> code button just above this text. And then select clone. You can use https for the time beeing and I will explain ssh.
+# Prerequisite
+
+* Create a github account
+* Download Github desktop
+* Clone this repo
+    To "download" the repository, press the <> code button just above this text. And then select clone. You can use https for the time beeing and I will explain ssh.
 
 # The four basic commands of git (Pull, Add, Commit, Push)
 
