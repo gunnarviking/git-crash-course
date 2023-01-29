@@ -2,6 +2,8 @@
 
 The purpose of this repo is to demonstrate to students how you can use git, this will only cover the basics.
 
+To "download" the repository, use git clone to get the code and repo to your computer
+
 # The four basic commands of git (Pull, Add, Commit, Push)
 
 These for commands is what is needed to get code from the repository and to upload code to the repository
