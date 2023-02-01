@@ -115,5 +115,4 @@ No we add some text!!
 Even more text!
 
 
-
-![alt text](https://www.pinterest.com/pin/581668108095603898/)
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
