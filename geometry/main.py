@@ -2,7 +2,7 @@ def calculate_area_rectangle(side, height):
 
     # Implement function for calculating rectangle
 
-    return side*height
+    return NotImplemented
 
 def meter_inches(meters)
 
