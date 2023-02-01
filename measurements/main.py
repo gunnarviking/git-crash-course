@@ -1,6 +1,6 @@
 def dm_to_meter(dm):
 
-    return NotImplemented
+    return dm / 10
 
 def cm_to_meter(cm):
 
@@ -15,7 +15,7 @@ def main():
     print(f"Cm to meters: {cm_calc}")
 
 
-    dm_calc = cm_to_meter(18)
+    dm_calc = dm_to_meter(18)
     print(f"dm to meters: {dm_calc}")
 
     
