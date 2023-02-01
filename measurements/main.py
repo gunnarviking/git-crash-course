@@ -7,6 +7,10 @@ def cm_to_meter(cm):
     return cm / 100
 
 
+def new_func():
+
+    print("ok")
+
 
 def main():
 
