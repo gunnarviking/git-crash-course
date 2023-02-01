@@ -4,11 +4,7 @@ def calculate_area_rectangle(side, height):
 
     return NotImplemented
 
-def meter_inches(meters)
 
-    # Inches
-    return meters*39.3701
-    
 def calculate_square(side):
 
     return side * side
