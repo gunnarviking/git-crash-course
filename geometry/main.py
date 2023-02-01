@@ -2,12 +2,18 @@ def calculate_area_rectangle(side, height):
 
     # Implement function for calculating rectangle
 
-    return NotImplemented
+    return side * height
+
 
 
 def calculate_square(side):
 
     return side * side
+
+
+def calculate_area_circle(radius):
+
+    return 3.141592653589793 * radius^2
 
 
 
