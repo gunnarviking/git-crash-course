@@ -14,6 +14,10 @@ def calculate_square(side):
     return side * side
 
 
+def calculate_area_circle(radius):
+
+    return 3.141592653589793 * radius^2
+
 
 def main():
 
