@@ -10,6 +10,11 @@ def calculate_square(side):
     return side * side
 
 
+def calculate_square(side):
+
+    return side * side
+
+
 
 def main():
 
