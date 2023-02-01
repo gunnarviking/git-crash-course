@@ -2,7 +2,7 @@ def calculate_area_rectangle(side, height):
 
     # Implement function for calculating rectangle
 
-    return NotImplemented
+    return side*height
 
 
 def calculate_square(side):
