@@ -99,7 +99,7 @@ Always merge the branch you want to merge into, into your branch first, so that 
 
 There are a lot of programs to help with git. Either you use your terminal and write git commands from scratch. Or you can use program like fork, git kraken, github desktop etc. Program are quite nice since you get a graphical interface to see all previuos commits, branches etc etc
 
-
+#For demo
 
 
 
